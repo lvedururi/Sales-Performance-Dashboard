@@ -1,0 +1,101 @@
+Order ID,Region,Category,Month,Units Sold,Unit Price,Revenue
+1001,East,Clothing,Jul,133,214,28462
+1002,West,Furniture,Jan,196,420,82320
+1003,North,Furniture,Apr,335,147,49245
+1004,East,Office Supplies,Apr,473,52,24596
+1005,East,Furniture,May,358,195,69810
+1006,West,Furniture,Jul,268,479,128372
+1007,North,Furniture,Jul,157,462,72534
+1008,North,Office Supplies,Nov,261,390,101790
+1009,East,Furniture,Apr,452,489,221028
+1010,South,Clothing,Jul,429,394,169026
+1011,East,Office Supplies,Nov,412,41,16892
+1012,East,Clothing,Mar,355,257,91235
+1013,East,Office Supplies,Jun,460,177,81420
+1014,East,Furniture,Dec,156,57,8892
+1015,West,Clothing,Feb,157,249,39093
+1016,North,Office Supplies,Oct,361,384,138624
+1017,West,Electronics,Sep,208,70,14560
+1018,West,Furniture,May,317,457,144869
+1019,West,Office Supplies,Jun,498,283,140934
+1020,East,Electronics,Dec,426,302,128652
+1021,South,Office Supplies,Dec,433,46,19918
+1022,North,Electronics,Dec,137,245,33565
+1023,South,Furniture,Dec,48,296,14208
+1024,West,Clothing,Apr,347,305,105835
+1025,West,Electronics,Nov,369,116,42804
+1026,South,Office Supplies,Oct,138,303,41814
+1027,South,Furniture,Jul,276,386,106536
+1028,South,Electronics,Dec,485,467,226495
+1029,West,Office Supplies,Sep,450,472,212400
+1030,West,Office Supplies,Jul,482,336,161952
+1031,North,Office Supplies,Jan,443,323,143089
+1032,North,Electronics,Jan,160,166,26560
+1033,West,Electronics,Sep,424,23,9752
+1034,South,Electronics,Nov,487,54,26298
+1035,South,Clothing,Sep,307,211,64777
+1036,North,Electronics,Apr,108,68,7344
+1037,West,Electronics,Sep,272,36,9792
+1038,North,Electronics,Mar,261,191,49851
+1039,North,Clothing,Jul,153,239,36567
+1040,East,Electronics,Jun,355,177,62835
+1041,East,Office Supplies,Aug,121,496,60016
+1042,East,Electronics,Nov,69,65,4485
+1043,South,Office Supplies,Sep,378,392,148176
+1044,West,Office Supplies,May,11,25,275
+1045,West,Office Supplies,Jan,394,118,46492
+1046,West,Clothing,Mar,313,399,124887
+1047,West,Clothing,Oct,263,252,66276
+1048,East,Clothing,Dec,149,56,8344
+1049,South,Electronics,Aug,462,299,138138
+1050,South,Office Supplies,Nov,46,368,16928
+1051,East,Clothing,Jun,169,321,54249
+1052,South,Clothing,Aug,18,200,3600
+1053,East,Electronics,Sep,242,114,27588
+1054,West,Clothing,Apr,108,118,12744
+1055,East,Electronics,Jan,156,207,32292
+1056,West,Furniture,Jan,313,135,42255
+1057,West,Clothing,Oct,217,210,45570
+1058,North,Furniture,Apr,140,272,38080
+1059,East,Electronics,Dec,413,488,201544
+1060,North,Office Supplies,Jul,161,435,70035
+1061,East,Clothing,Feb,63,490,30870
+1062,East,Electronics,Mar,129,180,23220
+1063,North,Office Supplies,Jan,170,275,46750
+1064,North,Office Supplies,May,417,342,142614
+1065,East,Furniture,Jan,125,147,18375
+1066,South,Electronics,Aug,84,37,3108
+1067,West,Office Supplies,Jan,122,300,36600
+1068,North,Clothing,Nov,465,242,112530
+1069,West,Clothing,Jan,429,73,31317
+1070,South,Furniture,Feb,431,77,33187
+1071,South,Office Supplies,Feb,113,342,38646
+1072,South,Electronics,Dec,349,379,132271
+1073,North,Clothing,Jun,263,193,50759
+1074,South,Office Supplies,Jul,236,299,70564
+1075,North,Office Supplies,May,121,133,16093
+1076,South,Furniture,Jan,482,307,147974
+1077,West,Clothing,Jan,108,450,48600
+1078,West,Clothing,Mar,162,361,58482
+1079,East,Electronics,Feb,358,170,60860
+1080,West,Clothing,May,411,469,192759
+1081,East,Electronics,Dec,393,146,57378
+1082,West,Clothing,Oct,375,174,65250
+1083,North,Furniture,Jun,347,405,140535
+1084,West,Clothing,Jul,203,493,100079
+1085,East,Electronics,Apr,319,292,93148
+1086,East,Electronics,Jul,172,123,21156
+1087,South,Furniture,Nov,217,436,94612
+1088,North,Clothing,Aug,454,412,187048
+1089,West,Clothing,Nov,178,318,56604
+1090,South,Furniture,Jan,493,265,130645
+1091,West,Clothing,Jun,170,195,33150
+1092,West,Clothing,Aug,77,58,4466
+1093,South,Electronics,May,298,496,147808
+1094,South,Clothing,Apr,407,189,76923
+1095,South,Clothing,Feb,286,266,76076
+1096,South,Furniture,Jun,313,45,14085
+1097,South,Furniture,Jun,413,374,154462
+1098,West,Office Supplies,Nov,393,325,127725
+1099,South,Electronics,Jan,401,428,171628
+1100,North,Clothing,Sep,144,427,61488
